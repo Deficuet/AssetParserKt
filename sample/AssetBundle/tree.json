@@ -1,0 +1,582 @@
+[
+    {
+        "type": "AssetBundle",
+        "name": "Base",
+        "byteSize": -1,
+        "index": 0,
+        "typeFlags": 0,
+        "version": 3,
+        "metaFlag": 32768,
+        "level": 0
+    },
+    {
+        "type": "string",
+        "name": "m_Name",
+        "byteSize": -1,
+        "index": 1,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 557057,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 2,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 540673,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 3,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 4,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_PreloadTable",
+        "byteSize": -1,
+        "index": 5,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 6,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 7,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "PPtr<Object>",
+        "name": "data",
+        "byteSize": 12,
+        "index": 8,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "m_FileID",
+        "byteSize": 4,
+        "index": 9,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 4
+    },
+    {
+        "type": "SInt64",
+        "name": "m_PathID",
+        "byteSize": 8,
+        "index": 10,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 4
+    },
+    {
+        "type": "map",
+        "name": "m_Container",
+        "byteSize": -1,
+        "index": 11,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 12,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 13,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "pair",
+        "name": "data",
+        "byteSize": -1,
+        "index": 14,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 3
+    },
+    {
+        "type": "string",
+        "name": "first",
+        "byteSize": -1,
+        "index": 15,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 4
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 16,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 17,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 18,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    },
+    {
+        "type": "AssetInfo",
+        "name": "second",
+        "byteSize": 20,
+        "index": 19,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "preloadIndex",
+        "byteSize": 4,
+        "index": 20,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "preloadSize",
+        "byteSize": 4,
+        "index": 21,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 5
+    },
+    {
+        "type": "PPtr<Object>",
+        "name": "asset",
+        "byteSize": 12,
+        "index": 22,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "m_FileID",
+        "byteSize": 4,
+        "index": 23,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 6
+    },
+    {
+        "type": "SInt64",
+        "name": "m_PathID",
+        "byteSize": 8,
+        "index": 24,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 6
+    },
+    {
+        "type": "AssetInfo",
+        "name": "m_MainAsset",
+        "byteSize": 20,
+        "index": 25,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "preloadIndex",
+        "byteSize": 4,
+        "index": 26,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "preloadSize",
+        "byteSize": 4,
+        "index": 27,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "PPtr<Object>",
+        "name": "asset",
+        "byteSize": 12,
+        "index": 28,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_FileID",
+        "byteSize": 4,
+        "index": 29,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 3
+    },
+    {
+        "type": "SInt64",
+        "name": "m_PathID",
+        "byteSize": 8,
+        "index": 30,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 8388609,
+        "level": 3
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_RuntimeCompatibility",
+        "byteSize": 4,
+        "index": 31,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "string",
+        "name": "m_AssetBundleName",
+        "byteSize": -1,
+        "index": 32,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 33,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 34,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 35,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Dependencies",
+        "byteSize": -1,
+        "index": 36,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 37,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 49152,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 38,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "string",
+        "name": "data",
+        "byteSize": -1,
+        "index": 39,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 40,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 41,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 42,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "bool",
+        "name": "m_IsStreamedSceneAssetBundle",
+        "byteSize": 1,
+        "index": 43,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_ExplicitDataLayout",
+        "byteSize": 4,
+        "index": 44,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_PathFlags",
+        "byteSize": 4,
+        "index": 45,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "map",
+        "name": "m_SceneHashes",
+        "byteSize": -1,
+        "index": 46,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 47,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 48,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "pair",
+        "name": "data",
+        "byteSize": -1,
+        "index": 49,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 3
+    },
+    {
+        "type": "string",
+        "name": "first",
+        "byteSize": -1,
+        "index": 50,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 4
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 51,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 52,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 53,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    },
+    {
+        "type": "string",
+        "name": "second",
+        "byteSize": -1,
+        "index": 54,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 4
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 55,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 56,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 57,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 6
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "type": "Texture2D",
+        "name": "Base",
+        "byteSize": -1,
+        "index": 0,
+        "typeFlags": 0,
+        "version": 2,
+        "metaFlag": 32768,
+        "level": 0
+    },
+    {
+        "type": "string",
+        "name": "m_Name",
+        "byteSize": -1,
+        "index": 1,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 557057,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 2,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 540673,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 3,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 4,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "m_ForcedFallbackFormat",
+        "byteSize": 4,
+        "index": 5,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_DownscaleFallback",
+        "byteSize": 1,
+        "index": 6,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_IsAlphaChannelOptional",
+        "byteSize": 1,
+        "index": 7,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_Width",
+        "byteSize": 4,
+        "index": 8,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_Height",
+        "byteSize": 4,
+        "index": 9,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_CompleteImageSize",
+        "byteSize": 4,
+        "index": 10,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_MipsStripped",
+        "byteSize": 4,
+        "index": 11,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_TextureFormat",
+        "byteSize": 4,
+        "index": 12,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_MipCount",
+        "byteSize": 4,
+        "index": 13,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_IsReadable",
+        "byteSize": 1,
+        "index": 14,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_IsPreProcessed",
+        "byteSize": 1,
+        "index": 15,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_IgnoreMipmapLimit",
+        "byteSize": 1,
+        "index": 16,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "string",
+        "name": "m_MipmapLimitGroupName",
+        "byteSize": -1,
+        "index": 17,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 18,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 19,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 20,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "bool",
+        "name": "m_StreamingMipmaps",
+        "byteSize": 1,
+        "index": 21,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_StreamingMipmapsPriority",
+        "byteSize": 4,
+        "index": 22,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_ImageCount",
+        "byteSize": 4,
+        "index": 23,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_TextureDimension",
+        "byteSize": 4,
+        "index": 24,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "GLTextureSettings",
+        "name": "m_TextureSettings",
+        "byteSize": 24,
+        "index": 25,
+        "typeFlags": 0,
+        "version": 2,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_FilterMode",
+        "byteSize": 4,
+        "index": 26,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_Aniso",
+        "byteSize": 4,
+        "index": 27,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "float",
+        "name": "m_MipBias",
+        "byteSize": 4,
+        "index": 28,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_WrapU",
+        "byteSize": 4,
+        "index": 29,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_WrapV",
+        "byteSize": 4,
+        "index": 30,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_WrapW",
+        "byteSize": 4,
+        "index": 31,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "m_LightmapFormat",
+        "byteSize": 4,
+        "index": 32,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_ColorSpace",
+        "byteSize": 4,
+        "index": 33,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "m_PlatformBlob",
+        "byteSize": -1,
+        "index": 34,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 35,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 36,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 37,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 3
+    },
+    {
+        "type": "TypelessData",
+        "name": "image data",
+        "byteSize": -1,
+        "index": 38,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 39,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 2
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 40,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 2
+    },
+    {
+        "type": "StreamingInfo",
+        "name": "m_StreamData",
+        "byteSize": -1,
+        "index": 41,
+        "typeFlags": 0,
+        "version": 2,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "UInt64",
+        "name": "offset",
+        "byteSize": 8,
+        "index": 42,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 43,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "string",
+        "name": "path",
+        "byteSize": -1,
+        "index": 44,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 45,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 46,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 47,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    }
+]

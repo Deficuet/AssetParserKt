@@ -1,0 +1,2392 @@
+[
+    {
+        "type": "Mesh",
+        "name": "Base",
+        "byteSize": -1,
+        "index": 0,
+        "typeFlags": 0,
+        "version": 11,
+        "metaFlag": 32768,
+        "level": 0
+    },
+    {
+        "type": "string",
+        "name": "m_Name",
+        "byteSize": -1,
+        "index": 1,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 557057,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 2,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 540673,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 3,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 4,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 524289,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_SubMeshes",
+        "byteSize": -1,
+        "index": 5,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 6,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 7,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "SubMesh",
+        "name": "data",
+        "byteSize": 48,
+        "index": 8,
+        "typeFlags": 0,
+        "version": 2,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "unsigned int",
+        "name": "firstByte",
+        "byteSize": 4,
+        "index": 9,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "indexCount",
+        "byteSize": 4,
+        "index": 10,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "topology",
+        "byteSize": 4,
+        "index": 11,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "baseVertex",
+        "byteSize": 4,
+        "index": 12,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "firstVertex",
+        "byteSize": 4,
+        "index": 13,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "vertexCount",
+        "byteSize": 4,
+        "index": 14,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "AABB",
+        "name": "localAABB",
+        "byteSize": 24,
+        "index": 15,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Center",
+        "byteSize": 12,
+        "index": 16,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 17,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 18,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 19,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Extent",
+        "byteSize": 12,
+        "index": 20,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 21,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 22,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 23,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "BlendShapeData",
+        "name": "m_Shapes",
+        "byteSize": -1,
+        "index": 24,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "vertices",
+        "byteSize": -1,
+        "index": 25,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 26,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 27,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "BlendShapeVertex",
+        "name": "data",
+        "byteSize": 40,
+        "index": 28,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "Vector3f",
+        "name": "vertex",
+        "byteSize": 12,
+        "index": 29,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 30,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 31,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 32,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "Vector3f",
+        "name": "normal",
+        "byteSize": 12,
+        "index": 33,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 34,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 35,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 36,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "Vector3f",
+        "name": "tangent",
+        "byteSize": 12,
+        "index": 37,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 38,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 39,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 40,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 6
+    },
+    {
+        "type": "unsigned int",
+        "name": "index",
+        "byteSize": 4,
+        "index": 41,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "vector",
+        "name": "shapes",
+        "byteSize": -1,
+        "index": 42,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 43,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 49153,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 44,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "MeshBlendShape",
+        "name": "data",
+        "byteSize": 10,
+        "index": 45,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "firstVertex",
+        "byteSize": 4,
+        "index": 46,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "unsigned int",
+        "name": "vertexCount",
+        "byteSize": 4,
+        "index": 47,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "bool",
+        "name": "hasNormals",
+        "byteSize": 1,
+        "index": 48,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "bool",
+        "name": "hasTangents",
+        "byteSize": 1,
+        "index": 49,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 5
+    },
+    {
+        "type": "vector",
+        "name": "channels",
+        "byteSize": -1,
+        "index": 50,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 51,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 49153,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 52,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "MeshBlendShapeChannel",
+        "name": "data",
+        "byteSize": -1,
+        "index": 53,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 4
+    },
+    {
+        "type": "string",
+        "name": "name",
+        "byteSize": -1,
+        "index": 54,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 5
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 55,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 6
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 56,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 7
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 57,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 7
+    },
+    {
+        "type": "unsigned int",
+        "name": "nameHash",
+        "byteSize": 4,
+        "index": 58,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "frameIndex",
+        "byteSize": 4,
+        "index": 59,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "int",
+        "name": "frameCount",
+        "byteSize": 4,
+        "index": 60,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "vector",
+        "name": "fullWeights",
+        "byteSize": -1,
+        "index": 61,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 62,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 63,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "data",
+        "byteSize": 4,
+        "index": 64,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "vector",
+        "name": "m_BindPose",
+        "byteSize": -1,
+        "index": 65,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 66,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 67,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "Matrix4x4f",
+        "name": "data",
+        "byteSize": 64,
+        "index": 68,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "e00",
+        "byteSize": 4,
+        "index": 69,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e01",
+        "byteSize": 4,
+        "index": 70,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e02",
+        "byteSize": 4,
+        "index": 71,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e03",
+        "byteSize": 4,
+        "index": 72,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e10",
+        "byteSize": 4,
+        "index": 73,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e11",
+        "byteSize": 4,
+        "index": 74,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e12",
+        "byteSize": 4,
+        "index": 75,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e13",
+        "byteSize": 4,
+        "index": 76,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e20",
+        "byteSize": 4,
+        "index": 77,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e21",
+        "byteSize": 4,
+        "index": 78,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e22",
+        "byteSize": 4,
+        "index": 79,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e23",
+        "byteSize": 4,
+        "index": 80,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e30",
+        "byteSize": 4,
+        "index": 81,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e31",
+        "byteSize": 4,
+        "index": 82,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e32",
+        "byteSize": 4,
+        "index": 83,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "e33",
+        "byteSize": 4,
+        "index": 84,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "vector",
+        "name": "m_BoneNameHashes",
+        "byteSize": -1,
+        "index": 85,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 86,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 87,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "unsigned int",
+        "name": "data",
+        "byteSize": 4,
+        "index": 88,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_RootBoneNameHash",
+        "byteSize": 4,
+        "index": 89,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "m_BonesAABB",
+        "byteSize": -1,
+        "index": 90,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 91,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 92,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "MinMaxAABB",
+        "name": "data",
+        "byteSize": 24,
+        "index": 93,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Min",
+        "byteSize": 12,
+        "index": 94,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 95,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 96,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 97,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Max",
+        "byteSize": 12,
+        "index": 98,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 4
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 99,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 100,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 101,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 5
+    },
+    {
+        "type": "VariableBoneCountWeights",
+        "name": "m_VariableBoneCountWeights",
+        "byteSize": -1,
+        "index": 102,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 103,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 104,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 105,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "unsigned int",
+        "name": "data",
+        "byteSize": 4,
+        "index": 106,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "UInt8",
+        "name": "m_MeshCompression",
+        "byteSize": 1,
+        "index": 107,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_IsReadable",
+        "byteSize": 1,
+        "index": 108,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_KeepVertices",
+        "byteSize": 1,
+        "index": 109,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "bool",
+        "name": "m_KeepIndices",
+        "byteSize": 1,
+        "index": 110,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_IndexFormat",
+        "byteSize": 4,
+        "index": 111,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "m_IndexBuffer",
+        "byteSize": -1,
+        "index": 112,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 113,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 114,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 115,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "VertexData",
+        "name": "m_VertexData",
+        "byteSize": -1,
+        "index": 116,
+        "typeFlags": 0,
+        "version": 3,
+        "metaFlag": 49153,
+        "level": 1
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_VertexCount",
+        "byteSize": 4,
+        "index": 117,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 2
+    },
+    {
+        "type": "vector",
+        "name": "m_Channels",
+        "byteSize": -1,
+        "index": 118,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 119,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 120,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "ChannelInfo",
+        "name": "data",
+        "byteSize": 4,
+        "index": 121,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "UInt8",
+        "name": "stream",
+        "byteSize": 1,
+        "index": 122,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "offset",
+        "byteSize": 1,
+        "index": 123,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "format",
+        "byteSize": 1,
+        "index": 124,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "dimension",
+        "byteSize": 1,
+        "index": 125,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "TypelessData",
+        "name": "m_DataSize",
+        "byteSize": -1,
+        "index": 126,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 127,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 128,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "CompressedMesh",
+        "name": "m_CompressedMesh",
+        "byteSize": -1,
+        "index": 129,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_Vertices",
+        "byteSize": -1,
+        "index": 130,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 131,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Range",
+        "byteSize": 4,
+        "index": 132,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Start",
+        "byteSize": 4,
+        "index": 133,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 134,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 135,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 136,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 137,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 138,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_UV",
+        "byteSize": -1,
+        "index": 139,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 140,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Range",
+        "byteSize": 4,
+        "index": 141,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Start",
+        "byteSize": 4,
+        "index": 142,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 143,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 144,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 145,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 146,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 147,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_Normals",
+        "byteSize": -1,
+        "index": 148,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 149,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Range",
+        "byteSize": 4,
+        "index": 150,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Start",
+        "byteSize": 4,
+        "index": 151,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 152,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 153,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 154,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 155,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 156,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_Tangents",
+        "byteSize": -1,
+        "index": 157,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 158,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Range",
+        "byteSize": 4,
+        "index": 159,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Start",
+        "byteSize": 4,
+        "index": 160,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 161,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 162,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 163,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 164,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 165,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_Weights",
+        "byteSize": -1,
+        "index": 166,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 167,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 168,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 169,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 170,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 171,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 172,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_NormalSigns",
+        "byteSize": -1,
+        "index": 173,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 174,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 175,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 176,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 177,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 178,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 179,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_TangentSigns",
+        "byteSize": -1,
+        "index": 180,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 181,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 182,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 183,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 184,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 185,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 186,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_FloatColors",
+        "byteSize": -1,
+        "index": 187,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 188,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Range",
+        "byteSize": 4,
+        "index": 189,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_Start",
+        "byteSize": 4,
+        "index": 190,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 191,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 192,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 193,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 194,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 195,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_BoneIndices",
+        "byteSize": -1,
+        "index": 196,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 197,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 198,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 199,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 200,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 201,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 202,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "PackedBitVector",
+        "name": "m_Triangles",
+        "byteSize": -1,
+        "index": 203,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_NumItems",
+        "byteSize": 4,
+        "index": 204,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_Data",
+        "byteSize": -1,
+        "index": 205,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 3
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 206,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 4
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 207,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 208,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 5
+    },
+    {
+        "type": "UInt8",
+        "name": "m_BitSize",
+        "byteSize": 1,
+        "index": 209,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "unsigned int",
+        "name": "m_UVInfo",
+        "byteSize": 4,
+        "index": 210,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 2
+    },
+    {
+        "type": "AABB",
+        "name": "m_LocalAABB",
+        "byteSize": 24,
+        "index": 211,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Center",
+        "byteSize": 12,
+        "index": 212,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 2
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 213,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 214,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 215,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "Vector3f",
+        "name": "m_Extent",
+        "byteSize": 12,
+        "index": 216,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 2
+    },
+    {
+        "type": "float",
+        "name": "x",
+        "byteSize": 4,
+        "index": 217,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "y",
+        "byteSize": 4,
+        "index": 218,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "z",
+        "byteSize": 4,
+        "index": 219,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 2097153,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "m_MeshUsageFlags",
+        "byteSize": 4,
+        "index": 220,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 1
+    },
+    {
+        "type": "int",
+        "name": "m_CookingOptions",
+        "byteSize": 4,
+        "index": 221,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "vector",
+        "name": "m_BakedConvexCollisionMesh",
+        "byteSize": -1,
+        "index": 222,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 223,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 224,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 225,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "vector",
+        "name": "m_BakedTriangleCollisionMesh",
+        "byteSize": -1,
+        "index": 226,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32769,
+        "level": 1
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 227,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 2
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 228,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "UInt8",
+        "name": "data",
+        "byteSize": 1,
+        "index": 229,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 3
+    },
+    {
+        "type": "float",
+        "name": "m_MeshMetrics[0]",
+        "byteSize": 4,
+        "index": 230,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 1
+    },
+    {
+        "type": "float",
+        "name": "m_MeshMetrics[1]",
+        "byteSize": 4,
+        "index": 231,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 16384,
+        "level": 1
+    },
+    {
+        "type": "StreamingInfo",
+        "name": "m_StreamData",
+        "byteSize": -1,
+        "index": 232,
+        "typeFlags": 0,
+        "version": 2,
+        "metaFlag": 32768,
+        "level": 1
+    },
+    {
+        "type": "UInt64",
+        "name": "offset",
+        "byteSize": 8,
+        "index": 233,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "unsigned int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 234,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 0,
+        "level": 2
+    },
+    {
+        "type": "string",
+        "name": "path",
+        "byteSize": -1,
+        "index": 235,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 32768,
+        "level": 2
+    },
+    {
+        "type": "Array",
+        "name": "Array",
+        "byteSize": -1,
+        "index": 236,
+        "typeFlags": 1,
+        "version": 1,
+        "metaFlag": 16385,
+        "level": 3
+    },
+    {
+        "type": "int",
+        "name": "size",
+        "byteSize": 4,
+        "index": 237,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    },
+    {
+        "type": "char",
+        "name": "data",
+        "byteSize": 1,
+        "index": 238,
+        "typeFlags": 0,
+        "version": 1,
+        "metaFlag": 1,
+        "level": 4
+    }
+]

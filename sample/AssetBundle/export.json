@@ -1,0 +1,102 @@
+{
+    "m_Name": "painting/wushiling_6_tex",
+    "m_PreloadTable": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 3278540350652713299
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 7388681648319203667
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7935664967634927386
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 7111192073883009254
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8644860552848606784
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4274973353515076476
+        }
+    ],
+    "m_Container": {
+        "Assets/ArtResource/Atlas/Paintings/wushiling_6-mesh.asset": [
+            {
+                "preloadIndex": 4,
+                "preloadSize": 1,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8644860552848606784
+                }
+            }
+        ],
+        "Assets/ArtResource/Atlas/Paintings/wushiling_6.png": [
+            {
+                "preloadIndex": 2,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7935664967634927386
+                }
+            },
+            {
+                "preloadIndex": 2,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 7111192073883009254
+                }
+            }
+        ],
+        "Assets/ResCategories/FanHX/ArtResource/Atlas/Paintings/wushiling_6-mesh.asset": [
+            {
+                "preloadIndex": 5,
+                "preloadSize": 1,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4274973353515076476
+                }
+            }
+        ],
+        "Assets/ResCategories/FanHX/ArtResource/Atlas/Paintings/wushiling_6.png": [
+            {
+                "preloadIndex": 0,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 3278540350652713299
+                }
+            },
+            {
+                "preloadIndex": 0,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 7388681648319203667
+                }
+            }
+        ]
+    },
+    "m_MainAsset": {
+        "preloadIndex": 0,
+        "preloadSize": 0,
+        "asset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        }
+    },
+    "m_RuntimeCompatibility": 1,
+    "m_AssetBundleName": "painting/wushiling_6_tex",
+    "m_Dependencies": [],
+    "m_IsStreamedSceneAssetBundle": false,
+    "m_ExplicitDataLayout": 1,
+    "m_PathFlags": 0,
+    "m_SceneHashes": {}
+}
